@@ -137,6 +137,3 @@ Please refer to the official documentation for the video creation API in the [Gi
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README provides an overview of each endpoint in Adap.AI, details on video creation integration, and directs users to the video creation API's GitHub repository for additional information.
