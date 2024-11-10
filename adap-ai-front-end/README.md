@@ -1,4 +1,4 @@
-### Documentation for `Adap.AI` API -- frond-end
+### Documentation for `Adap.AI` API -- front-end
 
 This repository contains the front-end code for the **adap.IA** project, an application focused on [brief description of the project, e.g., "facilitating learning through adaptive artificial intelligence resources"]. The front-end is built using React and other modern libraries to ensure a smooth and responsive user interface.
 
