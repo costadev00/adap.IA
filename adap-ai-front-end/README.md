@@ -34,12 +34,12 @@ Before getting started, make sure you have **Node.js** and **npm** (or **yarn**)
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/jonathanbff/adap.IA.git
 ```
 
 2. Navigate to the front-end directory:
-   ```bash
+```bash
    cd adap.IA/adap-ai-front-end
 ```
 
