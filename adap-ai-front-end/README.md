@@ -83,11 +83,3 @@ The application is built using a component-based approach. This means that each 
 
 - Atomic Components: Simple components, such as buttons or inputs, used throughout the application.
 - Page Components: Larger structures representing entire pages of the application.
-
-## Contribution
-
-Contributions are welcome! If you have suggestions or find any issues, feel free to open an issue or submit a pull request. Please follow coding best practices and write a brief description of your changes in the PR.
-
-## License
-
-This project is licensed under the MIT License. This means you can use, modify, and distribute it freely, as long as you mention the original license.
